@@ -25,7 +25,7 @@ const WORDS = [
 ];
 const TECH_STACK = ["React", "Javascript", "Node.js", "MongoDB"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/krishna-nishant" },
+  { icon: Github, link: "https://github.com/prashans277" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/krishna-nishant/" },
   { icon: Instagram, link: "https://www.instagram.com/krishna_0795_" },
 ];

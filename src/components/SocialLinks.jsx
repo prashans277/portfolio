@@ -22,7 +22,7 @@ const socialLinks = [
     displayName: "GitHub",
     subText: "@krishna-nishant",
     icon: Github,
-    url: "https://github.com/krishna-nishant",
+    url: "https://github.com/prashans277",
     color: "#333",
     gradient: "from-[#333] to-[#24292e]",
   },
