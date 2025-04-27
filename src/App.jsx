@@ -41,7 +41,7 @@ const LandingPage = ({ showWelcome, setShowWelcome }) => {
                   href="https://prashanskumar.vercel.app/"
                   className="hover:underline"
                 >
-                  Krishna
+                  Prashans
                 </a>
               </span>
             </div>
@@ -64,7 +64,7 @@ const ProjectPageLayout = () => (
             href="https://prashanskumar.vercel.app/"
             className="hover:underline"
           >
-            Krishna
+            Prashans
           </a>
         </span>
       </div>
