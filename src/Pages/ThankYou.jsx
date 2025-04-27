@@ -38,7 +38,7 @@ export default function ThankYouPage() {
             transition={{ delay: 0.4 }}
           >
             <a
-              href="https://krishna-nishant.vercel.app/"
+              href="https://prashanskumar.vercel.app/"
               className="inline-flex items-center justify-center px-8 py-3 bg-gradient-to-r from-[#6366f1] to-[#a855f7] text-white rounded-xl font-semibold transition-all duration-300 hover:scale-[1.02] hover:shadow-lg hover:shadow-[#6366f1]/20 active:scale-[0.98]"
             >
               Back to Home

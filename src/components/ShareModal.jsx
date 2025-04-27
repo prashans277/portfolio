@@ -6,9 +6,9 @@ import { X, Copy, Facebook, Twitter, Linkedin, LinkIcon } from "lucide-react";
 
 const ShareModal = ({ isOpen, onClose }) => {
   const modalRef = useRef(null);
-  const portfolioUrl = "https://krishna-nishant.vercel.app/";
+  const portfolioUrl = "https://prashanskumar.vercel.app/";
   const shareText =
-    "Check out Krishna Nishant's portfolio - a passionate developer specializing in web development!";
+    "Check out Prashans Kumar's portfolio - a passionate developer specializing in web development!";
 
   // Close when clicking outside
   useEffect(() => {

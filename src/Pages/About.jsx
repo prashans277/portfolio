@@ -67,7 +67,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Krishna Nishant
+                Prashans Kumar
               </span>
             </h2>
 

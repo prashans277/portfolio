@@ -37,13 +37,13 @@ const NotFound = () => {
           >
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://krishna-nishant.vercel.app/"
+                href="https://prashanskumar.vercel.app/"
                 className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gradient-to-r from-purple-600 to-blue-500 hover:from-purple-700 hover:to-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-all duration-300 shadow-lg hover:shadow-xl"
               >
                 Go Back Home
               </a>
               <a
-                href="https://krishna-nishant.vercel.app/#portfolio"
+                href="https://prashanskumar.vercel.app/#portfolio"
                 className="inline-flex items-center px-6 py-3 border border-gray-700 text-base font-medium rounded-md text-gray-200 bg-transparent hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-all duration-300"
               >
                 View Projects

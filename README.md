@@ -56,4 +56,4 @@ Feel free to reach out through the contact form on the website or connect with m
 
 ---
 
-Designed and developed by Krishna Nishant 
+Designed and developed by Prashans Kumar 
