@@ -85,7 +85,7 @@ const AboutPage = () => {
 
             <div className="flex flex-col lg:flex-row items-center gap-4">
               <a
-                href="https://tinyurl.com/krishnanishant"
+                href="https://drive.google.com/file/d/1_elwQg3WtLYGGZyKxfj5z4Q3VmH_lNRq/view?usp=sharing"
                 className="w-full lg:w-auto"
                 target="_blank"
               >
